@@ -48,7 +48,7 @@
 - In "App" you can use the program as I mentioned before
 - In "Files" you will see all files that app included.
 ## Hugging face link
-- https://huggingface.co/spaces/Stellaaaaaaaaaaa/Final_project/tree/main
+- https://huggingface.co/spaces/Stellaaaaaaaaaaa/Final_project
 ## Author and Acknowledgment
 - Author: XU,Anhang
 - Course: CISC121
